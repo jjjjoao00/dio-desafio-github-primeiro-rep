@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-rep
-desafio de projeto GIt/Github DIO Inter+
+# Reposítório paras os projetos do Bootcamp Dio INTER+
+

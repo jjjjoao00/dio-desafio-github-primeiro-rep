@@ -1,2 +1,2 @@
-# Reposítório paras os projetos do Bootcamp Dio INTER+
+# Repositório paras os projetos do Bootcamp Dio INTER+
 

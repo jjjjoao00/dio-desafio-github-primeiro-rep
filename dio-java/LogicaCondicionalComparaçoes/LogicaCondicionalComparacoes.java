@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!"); 
-    // inicialização das variaveis
+    // inicialização das variaveis 
     
     int i1 = 10;
     int i2 = 20;

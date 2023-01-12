@@ -9,36 +9,26 @@ class Main {
     int quantidadePares = 0;
     int quantidadeImpares = 0;
 
-    
-    //informa quantidade de numeros a serem inseridos
+    // informa quantidade de numeros a serem inseridos
     System.out.println("Quantidade de Numeros: ");
     quantidadeNumero = scan.nextInt();
 
-    do{
+    do {
       System.out.println("Numero: ");
       numero = scan.nextInt();
 
-     //verificação de pares e impares
-      if (numero % 2 ==0) {
-        quantidadePares ++;
-      }else{
-        quantidadeImpares ++;
+      // verificação de pares e impares
+      if (numero % 2 == 0) {
+        quantidadePares++;
+      } else {
+        quantidadeImpares++;
       }
-    
-      //contagem de numeros pares e numeros impares
+
       contador++;
 
-        
-      
-    }while(contador < quantidadeNumero);
+    } while (contador < quantidadeNumero);
 
-    System.out.println("Quantidade Par: "+quantidadePares + " Quantidade Ímpar: " + quantidadeImpares);
+    System.out.println("Quantidade Par: " + quantidadePares + " Quantidade Ímpar: " + quantidadeImpares);
 
-  
-
-    
-  
-
-    
   }
 }
